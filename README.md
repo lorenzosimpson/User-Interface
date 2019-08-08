@@ -1,4 +1,5 @@
-# LORENZO SIMPSON 
+# LORENZO SIMPSON
+attempting to rectify issues with pull request
 
 # User Interface Project: Great Idea Web Page
 
